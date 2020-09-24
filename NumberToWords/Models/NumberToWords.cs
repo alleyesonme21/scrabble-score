@@ -1,31 +1,50 @@
 using System;
-using System.Collections.Generic;
 
 namespace NumberToWords.Models
 {
   public class Words
   {
-    public string Input { get; set; }
-    public Words(string input)
+    public static int scrabbleSolver(char letter)
     {
-      Input = input;
+      switch (Char.ToLower(letter))
+      {
+        case 'd':
+        case 'g':
+          return 2;
+        case 'b':
+        case 'c':
+        case 'm':
+        case 'p':
+          return 3;
+        case 'y':
+        case 'w':
+        case 'v':
+        case 'h':
+        case 'f':
+          return 4;
+        case 'k':
+          return 5;
+        case 'j':
+        case 'x':
+          return 8;
+        case 'z':
+        case 'q':
+          return 10;
+        case ' ':
+          return 0;
+        default:
+          return 1;
+      }
     }
-    public char[] ToArray(string input)
+    public static int getWordScore(string word)
     {
-      char[] array = input.ToCharArray();
-      return array;
+      int TotalScore = 0;
+      foreach (char letter in word)
+      {
+        TotalScore += Words.scrabbleSolver(letter);
+      }
+      return TotalScore;
     }
-    public int CheckPoints(char[] array)
-    {
-      return 13;
-    }
-    // public static Dictionary<string, int> scrabbleWords = new Dictionary<string, int>()
-    // {
-    //   {"A", 1},
-    //   {"D", 2},
-    //   {"B", 3}
-
-    // };
 
   }
 }

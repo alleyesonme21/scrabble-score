@@ -6,3 +6,5 @@
 /Users/alleyesonme/Desktop/NumberToWords.Solution/NumberToWords/bin/Debug/netcoreapp2.2/NumberToWords.pdb
 /Users/alleyesonme/Desktop/NumberToWords.Solution/NumberToWords/obj/Debug/netcoreapp2.2/NumberToWords.dll
 /Users/alleyesonme/Desktop/NumberToWords.Solution/NumberToWords/obj/Debug/netcoreapp2.2/NumberToWords.pdb
+/Users/alleyesonme/Desktop/NumberToWords.Solution/NumberToWords/bin/Debug/netcoreapp2.2/NumberToWords.runtimeconfig.json
+/Users/alleyesonme/Desktop/NumberToWords.Solution/NumberToWords/bin/Debug/netcoreapp2.2/NumberToWords.runtimeconfig.dev.json
