@@ -1,0 +1,16 @@
+/Users/alleyesonme/Desktop/NumberToWords.Solution/NumberToWords.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/alleyesonme/Desktop/NumberToWords.Solution/NumberToWords.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/alleyesonme/Desktop/NumberToWords.Solution/NumberToWords.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/alleyesonme/Desktop/NumberToWords.Solution/NumberToWords.Tests/bin/Debug/netcoreapp2.2/NumberTests.deps.json
+/Users/alleyesonme/Desktop/NumberToWords.Solution/NumberToWords.Tests/bin/Debug/netcoreapp2.2/NumberTests.runtimeconfig.json
+/Users/alleyesonme/Desktop/NumberToWords.Solution/NumberToWords.Tests/bin/Debug/netcoreapp2.2/NumberTests.runtimeconfig.dev.json
+/Users/alleyesonme/Desktop/NumberToWords.Solution/NumberToWords.Tests/bin/Debug/netcoreapp2.2/NumberTests.dll
+/Users/alleyesonme/Desktop/NumberToWords.Solution/NumberToWords.Tests/bin/Debug/netcoreapp2.2/NumberTests.pdb
+/Users/alleyesonme/Desktop/NumberToWords.Solution/NumberToWords.Tests/bin/Debug/netcoreapp2.2/NumberToWords.dll
+/Users/alleyesonme/Desktop/NumberToWords.Solution/NumberToWords.Tests/bin/Debug/netcoreapp2.2/NumberToWords.pdb
+/Users/alleyesonme/Desktop/NumberToWords.Solution/NumberToWords.Tests/obj/Debug/netcoreapp2.2/NumberTests.csprojAssemblyReference.cache
+/Users/alleyesonme/Desktop/NumberToWords.Solution/NumberToWords.Tests/obj/Debug/netcoreapp2.2/NumberTests.AssemblyInfoInputs.cache
+/Users/alleyesonme/Desktop/NumberToWords.Solution/NumberToWords.Tests/obj/Debug/netcoreapp2.2/NumberTests.AssemblyInfo.cs
+/Users/alleyesonme/Desktop/NumberToWords.Solution/NumberToWords.Tests/obj/Debug/netcoreapp2.2/NumberTests.csproj.CopyComplete
+/Users/alleyesonme/Desktop/NumberToWords.Solution/NumberToWords.Tests/obj/Debug/netcoreapp2.2/NumberTests.dll
+/Users/alleyesonme/Desktop/NumberToWords.Solution/NumberToWords.Tests/obj/Debug/netcoreapp2.2/NumberTests.pdb
